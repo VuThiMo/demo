@@ -1,0 +1,19 @@
+.cha{
+    position: relative;
+}
+.trai{
+    position: absolute;
+    width: 40%;
+    height: 25px;
+    left: 0px;
+    bottom: 0px;
+
+}
+.phai{
+    position: absolute;
+    width: 37%;
+    height: 25px;
+    right: 0px;
+    bottom: 0px;
+
+}
